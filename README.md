@@ -5,3 +5,4 @@ Videos (300 Hz) of mice moving their whiskers to touch objects ("pistons") in th
 
 See video examples.
 
+![Analysis Example](https://github.com/amirdud/whisker_analysis/blob/master/analysis_example.png)
